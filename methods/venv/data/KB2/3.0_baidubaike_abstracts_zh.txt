@@ -1,0 +1,67 @@
+<http://zhishi.me/baidubaike/resource/%E9%80%86%E5%90%91%E6%80%9D%E7%BB%B4%E6%B3%95>
+        <http://zhishi.me/ontology/abstract>
+                "逆向思维法是指为实现某一创新或解决某一因常规思路难以解决的问题，而采取反向思维寻求解决问题的方法。 本方法可以通过后天煅练，从而提高逆向思维能力。 逆向思维法，不是一种培训或自我培训的技法，而仅仅是一种思维方法或发明方法，然而要挖掘人才能力，有必要了解这一方法。"@zh .
+
+<http://zhishi.me/baidubaike/resource/%E5%AE%89%E5%B1%85%E5%AE%9D>
+        <http://zhishi.me/ontology/abstract>
+                "安居宝是广东安居宝数码科技股份有限公司主打品牌，是国内最具市场竞争力的安防品牌之一。该公司是一家集研发、生产、销售、服务为一体的高科技企业，主要产品为楼宇对讲、报警及智能家居产品。"@zh .
+
+<http://zhishi.me/baidubaike/resource/9%C2%B724%E7%BE%8E%E5%9B%BD%E4%BD%9B%E7%BD%97%E9%87%8C%E8%BE%BE%E5%B7%9E%E6%8C%9F%E6%8C%81%E4%BA%BA%E8%B4%A8%E6%8A%A2%E5%8A%AB%E4%BA%8B%E4%BB%B6>
+        <http://zhishi.me/ontology/abstract>
+                "2010年9月24日，美国佛罗里达州迈阿密市发生一起罕见的银行抢劫案，3名嫌疑人劫持一名人质并在他身上绑上炸弹令其到银行的保险室“抢劫”，劫匪得手后已驾车逃离现场，目前仍未归案。"@zh .
+
+<http://zhishi.me/baidubaike/resource/%E7%B4%A2%E5%B0%BC46V5500>
+        <http://zhishi.me/ontology/abstract>
+                "KDL-46V5500是索尼推出的最新一代V5500系列46英寸液晶电视，作为索尼经典V系列的第五代产品，V5500系列将图像处理引擎升级为BRAVIA ENGINE 3，配合Live Colour 彩色增强功能，使画面效果更加自然。"@zh .
+
+<http://zhishi.me/baidubaike/resource/%E5%B0%8F%E5%B2%B8%E5%A3%AE%E4%BA%8C>
+        <http://zhishi.me/ontology/abstract>
+                "小岸壮二，1898年生于大分县，十岁时往东京入本因坊秀哉门下。十七岁入段，二十四岁升五段。棋风细密坚韧，尤擅长考，在当时年轻一代棋手中罕有比肩，被报界誉为“麒麟儿”。小岸壮二是日本近代一位英年早逝的棋界栋梁。他只活了二十六岁，但在短暂的生命里，他却为自己在那个特殊的转型时代留下了不可磨灭的印记。"@zh .
+
+<http://zhishi.me/baidubaike/resource/%E9%87%91%E5%BC%80%E8%8B%B1>
+        <http://zhishi.me/ontology/abstract>
+                "金开英（1902年10月16日－1999年5月8日），字公弢，浙江省吴兴县南洵镇人，为中国石油工业人士，为1960年代台湾石化工业发展的催生者。曾主持玉门油厂，成为“中国石油事业的先驱和炼油的第一人”。"@zh .
+
+<http://zhishi.me/baidubaike/resource/%E5%AD%99%E7%87%95%E5%A7%BF>
+        <http://zhishi.me/ontology/abstract>
+                "孙燕姿（Stefanie Sun），新加坡人，华语著名流行女歌手。2000年推出首张专辑，被视为华语歌坛继王菲、张惠妹之后，难得的天后接班人。她受奖无数，与同期出道的蔡依林、萧亚轩、梁静茹合称为亚洲四小天后，全亚洲累积唱片销量逾2000万张。2011年5月8日，孙燕姿与相恋5年多的男友纳迪姆(Nadim Van Der Ros)在新加坡举办婚礼。"@zh .
+
+<http://zhishi.me/baidubaike/resource/%E6%88%91%E6%80%80%E5%BF%B5%E7%9A%84>
+        <http://zhishi.me/ontology/abstract>
+                "《我怀念的》出自孙燕姿的第十张个人专辑《逆光》，2007加盟新东家的孙燕姿，是全新历程的开始。孙燕姿第10张全新的音乐作品，这是一张备受瞩目的作品，也将面临市场严格的审视与挑战。这首歌以流畅的曲风和婉约的歌词而流行，是孙燕姿的代表作之一。"@zh .
+
+<http://zhishi.me/baidubaike/resource/%E7%BB%BF%E5%85%89%5B%E5%AD%99%E7%87%95%E5%A7%BF%E6%BC%94%E5%94%B1%E6%AD%8C%E6%9B%B2%5D>
+        <http://zhishi.me/ontology/abstract>
+                "《绿光》是新加坡女歌手孙燕姿于2001.07.09发表的第3张个人专辑《风筝》中第01首歌曲，天天作词，孙燕姿RAP词、李偲菘作曲、Kenn C编曲、李偲菘制作。《绿光》被韩国歌手李索恩翻唱为韩文版《很久很久》。"@zh .
+
+<http://zhishi.me/baidubaike/resource/%E5%A5%94%5B%E5%AD%99%E7%87%95%E5%A7%BF%E6%BC%94%E5%94%B1%E6%AD%8C%E6%9B%B2%5D>
+        <http://zhishi.me/ontology/abstract>
+                "孙燕姿首度尝试新混种风味的Rock曲风，直接具有爆发力的主副歌Melody，搭配「绿光」做词人「天天」满载速度感的歌词，具有电子风味的强力编曲带来无限的想像空间，最后以燕姿的Vocal演绎整合为专属于孙燕姿风格的抢眼快版劲歌，市场接受度高同时个性化十足。"@zh .
+
+<http://zhishi.me/baidubaike/resource/%E4%B8%96%E8%AF%B4%E5%BF%83%E8%AF%AD%5B2011%E5%B9%B4%E5%AD%99%E7%87%95%E5%A7%BF%E6%BC%94%E5%94%B1%E6%AD%8C%E6%9B%B2%5D>
+        <http://zhishi.me/ontology/abstract>
+                "歌曲《世说心语》是孙燕姿第十一张专辑《是时候》中的第一主打歌曲，由林怡芬/ Jay Lim作词、Jay Lim作曲，2011年2月14日在Hit FM中首播，由美妙音乐唱片公司发行。"@zh .
+
+<http://zhishi.me/baidubaike/resource/%E6%84%9A%E4%BA%BA%E7%9A%84%E5%9B%BD%E5%BA%A6>
+        <http://zhishi.me/ontology/abstract>
+                "愚人的国度是是孙燕姿第十一张专辑《是时候》歌曲之一，李偲菘作曲、李焯雄、孙燕姿填词。"@zh .
+
+<http://zhishi.me/baidubaike/resource/%E6%88%91%E8%A6%81%E7%9A%84%E5%B9%B8%E7%A6%8F%5B2000%E5%B9%B4%E5%AD%99%E7%87%95%E5%A7%BF%E5%8F%91%E8%A1%8C%E4%B8%AA%E4%BA%BA%E4%B8%93%E8%BE%91%5D>
+        <http://zhishi.me/ontology/abstract>
+                "《我要的幸福》为孙燕姿的第二张专辑，于2000年12月7日发行。《我要的幸福》销量为台湾40万张，全亚洲260万张。另有同名图书。"@zh .
+
+<http://zhishi.me/baidubaike/resource/2010%E5%AD%99%E7%87%95%E5%A7%BF%E4%B8%8A%E6%B5%B7%E6%BC%94%E5%94%B1%E4%BC%9A>
+        <http://zhishi.me/ontology/abstract>
+                "这是孙燕姿经过两年的悉心准备，在上海体育馆举行的万人演唱会。孙燕姿上海演唱会将于10月30日登陆上海8万人体育场与您一起共享音乐盛宴。孙燕姿上海演唱会带我们一起重温燕姿带给我们的感动和经典。"@zh .
+
+<http://zhishi.me/baidubaike/resource/%E5%9D%8F%E5%A4%A9%E6%B0%94%5B2000%E5%B9%B4%E5%AD%99%E7%87%95%E5%A7%BF%E5%87%BA%E5%93%81%E6%AD%8C%E6%9B%B2%5D>
+        <http://zhishi.me/ontology/abstract>
+                "坏天气为孙燕姿的第二张专辑《我要的幸福》中歌曲，于2000年12月7日发行。"@zh .
+
+<http://zhishi.me/baidubaike/resource/%E6%B5%93%E7%9C%89%E6%AF%9B>
+        <http://zhishi.me/ontology/abstract>
+                "《浓眉毛》是新加坡女歌手孙燕姿于2000.06.08发表的第1张个人专辑《孙燕姿同名专辑》中第5首歌曲"@zh .
+
+<http://zhishi.me/baidubaike/resource/%E7%9C%BC%E6%B3%AA%E6%88%90%E8%AF%97>
+        <http://zhishi.me/ontology/abstract>
+                "《眼泪成诗》旋律悦耳，制作精细。孙燕姿在这首歌中的表达没有同类歌曲伤感，二胡和钢琴的结合很有新意。"@zh .

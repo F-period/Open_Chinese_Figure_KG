@@ -1,0 +1,107 @@
+﻿<http://zhishi.me/baidubaike/resource/2001>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "2001"@zh .
+
+<http://zhishi.me/baidubaike/resource/2002>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "2002"@zh .
+
+<http://zhishi.me/baidubaike/resource/%E7%8E%8B%E5%AD%90%E9%9D%A2>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "王子面"@zh .
+
+<http://zhishi.me/baidubaike/resource/Tonight%2C_I_feel_close_to_you>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Tonight, I feel close to you"@zh .
+
+<http://zhishi.me/baidubaike/resource/%E6%89%8B%E7%89%B5%E6%89%8B>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "手牵手"@zh .
+
+<http://zhishi.me/baidubaike/resource/%E5%85%A8%E5%BF%83%E5%85%A8%E6%84%8F>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "全心全意"@zh .
+
+<http://zhishi.me/baidubaike/resource/2003>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "2003"@zh .
+
+<http://zhishi.me/baidubaike/resource/%E7%AC%AC%E5%85%AD%E6%84%9F>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "第六感"@zh .
+
+<http://zhishi.me/baidubaike/resource/%E6%A2%A6%E6%83%B3%E5%A4%A9%E7%A9%BA>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "梦想天空"@zh .
+
+<http://zhishi.me/baidubaike/resource/%E5%8E%9F%E7%82%B9>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "原点"@zh .
+
+<http://zhishi.me/baidubaike/resource/2005>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "2005"@zh .
+
+<http://zhishi.me/baidubaike/resource/%E9%9B%A8%E5%A4%A9>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "雨天"@zh .
+
+<http://zhishi.me/baidubaike/resource/rise>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "rise"@zh .
+
+<http://zhishi.me/baidubaike/resource/%E5%8C%97%E4%BA%AC%E6%AC%A2%E8%BF%8E%E4%BD%A0>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "北京欢迎你"@zh .
+
+<http://zhishi.me/baidubaike/resource/%E7%82%B9%E7%87%83%E6%BF%80%E6%83%85%C2%B7%E4%BC%A0%E9%80%92%E6%A2%A6%E6%83%B3>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "点燃激情·传递梦想"@zh .
+
+<http://zhishi.me/baidubaike/resource/%E7%AB%99%E8%B5%B7%E6%9D%A5>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "站起来"@zh .
+
+<http://zhishi.me/baidubaike/resource/%E5%86%8D%E7%9C%8B%E4%B8%80%E7%9C%BC>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "再看一眼"@zh .
+
+<http://zhishi.me/baidubaike/resource/%E6%9C%A8%E5%85%B0%E6%83%85>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "木兰情"@zh .
+
+<http://zhishi.me/baidubaike/resource/2009>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "2009"@zh .
+
+<http://zhishi.me/baidubaike/resource/%E6%84%9F%E5%8A%A8%E6%AF%8F%E4%B8%80%E5%88%BB>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "感动每一刻"@zh .
+
+<http://zhishi.me/baidubaike/resource/2010>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "2010"@zh .
+
+<http://zhishi.me/baidubaike/resource/home>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "home"@zh .
+
+<http://zhishi.me/baidubaike/resource/2011>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "2011"@zh .
+
+<http://zhishi.me/baidubaike/resource/%E7%AE%80%E7%88%B1>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "简爱"@zh .
+
+<http://zhishi.me/baidubaike/resource/%E7%8E%8B%E5%AD%90%E9%9D%A2%5B%E5%8F%B0%E6%B9%BE%E6%96%B9%E4%BE%BF%E9%9D%A2%E5%93%81%E7%89%8C%5D>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "王子面[台湾方便面品牌]"@zh .
+
+<http://zhishi.me/baidubaike/resource/%E7%8E%8B%E5%AD%90%E9%9D%A2%5B%E6%8F%92%E7%94%BB%E5%AE%B6%E7%AC%94%E5%90%8D%5D>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "王子面[插画家笔名]"@zh .
+
+<http://zhishi.me/baidubaike/resource/%E5%A6%82%E9%A3%8E>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "如风"@zh .
